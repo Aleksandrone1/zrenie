@@ -16,17 +16,7 @@ Button button;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_zoom_animation);
-        imageView = findViewById(R.id.imageview);
-        button=findViewById(R.id.zoomOutButton);
-        button.setOnClickListener() {
 
-            // loading the animation of
-            // zoom_in.xml file into a variable
-            val animZoomIn = AnimationUtils.loadAnimation(this,
-                    R.anim.zoom_in)
-            // assigning that animation to
-            // the image and start animation
-            image.startAnimation(animZoomIn)
     }
 
 }
