@@ -1,0 +1,16 @@
+<vector android:autoMirrored="true"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportHeight="512" android:viewportWidth="512"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FEA680" android:pathData="M258.08,47.83v416.33C365.03,463.11 458.79,380.26 512,256C458.79,131.74 365.03,48.89 258.08,47.83z"/>
+    <path android:fillColor="#FFC1A6" android:pathData="M258.08,47.83C346.08,49.13 423.19,131.9 466.99,256c-43.8,124.1 -120.91,206.87 -208.91,208.16c-0.7,0.01 -1.38,0.01 -2.08,0.01C148.19,464.18 53.56,381.07 0,256C53.56,130.93 148.19,47.82 256,47.82C256.7,47.82 257.38,47.82 258.08,47.83z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M256,115.34c-107.82,0 -202.44,56.15 -256,140.66c53.56,84.51 148.18,140.66 256,140.66S458.44,340.51 512,256C458.44,171.49 363.82,115.34 256,115.34z"/>
+    <group android:name="smecy">
+    <path  android:fillColor="#42C8C6" android:pathData="M257.38,115.35v281.3c77.05,-0.73 139.27,-63.42 139.27,-140.65S334.43,116.08 257.38,115.35z"/>
+    <path android:fillColor="#42C8C6" android:pathData="M257.38,115.35c58.4,0.98 105.52,63.57 105.52,140.65s-47.12,139.67 -105.52,140.65c-0.46,0.01 -0.92,0.01 -1.38,0.01c-77.69,0 -140.66,-62.97 -140.66,-140.66S178.31,115.34 256,115.34C256.46,115.34 256.92,115.34 257.38,115.35z"/>
+        <path  android:fillColor="#FF000000" android:pathData="M256,182.86v146.29c40.4,0 73.14,-32.75 73.14,-73.14S296.4,182.86 256,182.86z"/>
+    <path android:fillColor="#FF000000" android:pathData="M256,182.86c27.96,0 50.64,32.75 50.64,73.14S283.96,329.14 256,329.14c-40.4,0 -73.14,-32.75 -73.14,-73.14S215.6,182.86 256,182.86z"/>
+</group>
+
+</vector>

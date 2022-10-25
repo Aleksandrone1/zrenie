@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "991817262009",
+    "firebase_url": "https://zrenie4-d44bc-default-rtdb.firebaseio.com",
+    "project_id": "zrenie4-d44bc",
+    "storage_bucket": "zrenie4-d44bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991817262009:android:44d8b165dc153d77658c68",
+        "android_client_info": {
+          "package_name": "com.example.zrenie4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991817262009-o660fqfs3tppauvma4e7orrq2mnpjmsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zrenie4",
+            "certificate_hash": "5375b41b7d4cf73d3192fc1b872a175a780be63d"
+          }
+        },
+        {
+          "client_id": "991817262009-nd9r864i4c6f5i2e3es0hourd38btcrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmhnAtDqkpUbF01_2pdHIjBWGI1_6jDSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991817262009-nd9r864i4c6f5i2e3es0hourd38btcrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

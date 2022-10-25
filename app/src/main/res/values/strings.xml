@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Меню</string>
+    <string name="app_avtor">Register app</string>
+    <string name="app_in_name">Прозрение</string>
+    <string name="buttonsignin">Войти</string>
+    <string name="buttonregin">Зарегистрироваться</string>
+    <string name="text_bottom">Войдите в свою учетную запись</string>
+    <string name="todo">TODO</string>
+    <string name="new_game" />
+    <string name="help" />
+    <string name="zoomOutButtonText" />
+</resources>

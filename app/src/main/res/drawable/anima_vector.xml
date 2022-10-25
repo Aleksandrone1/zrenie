@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/glas">
+
+    <target
+        android:name="blink_left"
+        android:animation="@animator/blink_left" />
+    <target
+        android:name="glaznica"
+        android:animation="@animator/glaznica" />
+    <target
+        android:name="apple"
+        android:animation="@animator/apple" />
+    <target
+        android:name="jadro"
+        android:animation="@animator/jadro" />
+    <target
+        android:name="jadro2"
+        android:animation="@animator/jadro2" />
+</animated-vector>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

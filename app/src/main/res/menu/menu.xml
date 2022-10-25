@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item9"
+        android:title="Профиль"
+        android:icon="@drawable/icons8___40"
+        app:showAsAction="ifRoom"
+
+        />
+    <item
+        android:id="@+id/item2"
+        android:title="Выход"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/icons8___48"/>
+</menu>
